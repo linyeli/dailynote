@@ -64,4 +64,5 @@ possible_keys显示可能应用在这张表中的索引，一个或多个。查�
 		where子句的值总是false，不能用来获取任何元组
 		
 # Reference
-+ https://zhuanlan.zhihu.com/p/93425047
++ https://zhuanlan.zhihu.com/p/93425047    
++ https://www.cnblogs.com/lz0925/p/10761923.html
