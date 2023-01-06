@@ -1,4 +1,5 @@
 # 继承元素
+**Maven只支持单继承**
 1. groupId: 项目组ID，项目坐标的核心元素
 2. version: 项目版本，项目坐标的核心元素
 3. description: 项目的描述信息
